@@ -37,6 +37,10 @@ Darazify is a python base script that is use to find products that have maxium d
 - Run with broswer
 - Run without broswer
 
+## Tested on:
+Windows
+
+Kali Linux
 
 # USAGE in Windows
 
@@ -53,7 +57,7 @@ Darazify is a python base script that is use to find products that have maxium d
 ```
 - Then run
 ```bash
-  python darazifi.py
+  python darazify.py
 ```
 
 # USAGE in Linux
@@ -65,7 +69,7 @@ Darazify is a python base script that is use to find products that have maxium d
 ```bash
   cd Darazify
 ```
-- give permission 
+- Give permission 
 ```bash
   sudo chmod +x setup.sh
 ```
@@ -83,16 +87,13 @@ Darazify is a python base script that is use to find products that have maxium d
 ```
 
 # Note
-This script only run on x64 operation systems. If you have x32 bit operation system or *MAC OS* go to this link and download geckodriver according to your operation system.
+This script only run on x64 operating systems. If you have x32 bit operating system or *MAC OS* go to this link and download geckodriver according to your operating system.
 ```bash
   https://github.com/mozilla/geckodriver/releases
 ```
 - Then replace old geckodriver with this new driver
 
-## Tested on:
-Windows
 
-Kali Linux
 
 
 
