@@ -37,7 +37,7 @@ Darazify is a python base script that is use to find products that have maxium d
 - Run with broswer
 - Run without broswer
 
-## Tested on:
+## Tested on
 Windows
 
 Kali Linux
