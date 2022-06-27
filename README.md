@@ -42,6 +42,16 @@ Windows
 
 Kali Linux
 
+## Requirements
+
+- Python version 3.8 or above
+
+- Firefox browser
+
+- Selenium 3.4.0
+
+- pip 
+
 # USAGE in Windows
 
 - Download this repo
@@ -51,10 +61,6 @@ Kali Linux
 ```bash
   pip install -r requirements.txt
 ```
-*or*
-```bash
-  pip install selenium
-```
 - Then run
 ```bash
   python darazify.py
@@ -63,7 +69,7 @@ Kali Linux
 # USAGE in Linux
 - Clone
 ```bash
-  git clone https://github.com/mazuu06/Darazify.git
+  sudo git clone https://github.com/mazuu06/Darazify.git
 ```
 - Change directory
 ```bash
@@ -77,7 +83,7 @@ Kali Linux
 ```bash
   sudo bash setup.sh
 ```
-- *optional*
+- Installing requirements 
 ```bash
   pip install -r requirements.txt
 ```
@@ -85,7 +91,7 @@ Kali Linux
 ```bash
   python3 darazify.txt
 ```
-
+_Don't run this script as *ROOT*_
 # Note
 This script only run on x64 operating systems. If you have x32 bit operating system or *MAC OS* go to this link and download geckodriver according to your operating system.
 ```bash
