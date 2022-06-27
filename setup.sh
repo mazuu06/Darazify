@@ -1,9 +1,6 @@
-sudo apt install python3-pip -y
-python3 -m pip install selenium
-chmod 664 output.txt
-chmod 664 geckodriver.log
-chmod 777 geckodriver
-chmod 774 darazify.py 
-chmod 744  modules/*
-
-
+cp geckodriver /usr/bin/
+Chmod 666 output.txt
+Chmod 666 geckodriver.log
+Chmod 777 geckodriver
+Chmod 774 darazify.py
+Chmod 744 modules/*
