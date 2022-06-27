@@ -89,7 +89,7 @@ Kali Linux
 ```
 - Run main script
 ```bash
-  python3 darazify.txt
+  python3 darazify.py
 ```
 _Don't run this script as *ROOT*_
 # Note
